@@ -1,0 +1,19 @@
+{
+  "name": "create-file-package",
+  "version": "1.0.0",
+  "description": "Un package de creation de fichier preremplis",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "file",
+    "create",
+    "stup"
+  ],
+  "author": "Tankeu Bzile <b.ziletankeu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "create-file": "^1.0.1"
+  }
+}
